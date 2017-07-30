@@ -1,6 +1,8 @@
 target/
 !.mvn/wrapper/maven-wrapper.jar
-
+LICENSE.MD
+package.json
+webpack.config.js
 ### STS ###
 .apt_generated
 .classpath
@@ -22,3 +24,7 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+.DS_Store
+node_modules/
+style/
+test/
