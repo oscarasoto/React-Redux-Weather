@@ -26,5 +26,5 @@ nbdist/
 .nb-gradle/
 .DS_Store
 node_modules/
-style/
 test/
+npm-debug.log
